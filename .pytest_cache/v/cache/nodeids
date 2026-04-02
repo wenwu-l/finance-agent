@@ -1,0 +1,6 @@
+[
+  "test_graph.py::TestCreateFinancialAgent::()::test_create_financial_agent_success",
+  "test_graph.py::TestCreateFinancialAgent::()::test_create_financial_agent_llm_parameters",
+  "test_graph.py::TestCreateFinancialAgent::()::test_create_financial_agent_memory_initialization",
+  "test_graph.py::TestCreateFinancialAgent::()::test_create_financial_agent_agent_configuration"
+]

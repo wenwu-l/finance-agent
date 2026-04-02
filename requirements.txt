@@ -1,0 +1,9 @@
+langchain>=0.3.0
+langgraph
+langchain-openai
+langchain-community
+yfinance
+pandas-ta
+tavily-python
+python-dotenv
+pandas
